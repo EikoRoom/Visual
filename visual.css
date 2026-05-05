@@ -5406,17 +5406,6 @@
 .scaleY998px{height:998px;}
 .scaleY999px{height:999px;}
 .scaleY1000px{height:1000px;}
-/*SNAP*/
-.snapReady{position:relative; box-sizing: border-box;}
-.snapTL{position:absolute;top:0%;left:0%;}
-.snapTop{position:absolute;top:0%;left:50%;transform:translateX(-50%);}
-.snapTR{position:absolute;top:0%;right:0%;}
-.snapLeft{position: absolute;top:50%;left:0%;transform:translateY(-50%)}
-.snapCenter{position:absolute;top:50%;right:50%;transform:translate(50%,-50%);}
-.snapRight{position:absolute;top:50%;right:0%;transform:translateY(-50%);}
-.snapBL{position:absolute;bottom:0%;left:0%;}
-.snapBottom{position:absolute;bottom:0%;left:50%;transform:translateX(-50%);}
-.snapBR{position:absolute;bottom:0%;right:0%;}
 /*WIRE*/
 .wire,.wire1,.wire2,.wire3,.wire4,.wire5 {border:solid 3px black;position: relative;}
 .wire::before,.wire1::before {
