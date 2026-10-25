@@ -16,7 +16,7 @@
 .xflex-TL{display:flex;flex-direction:row-reverse;align-content:flex-start;justify-content:flex-end;align-items:flex-start;}
 .xflex-Top{display:flex;flex-direction:row-reverse;align-content:flex-start;justify-content:center;	align-items:flex-start;}
 .xflex-TR{display:flex;flex-direction:row-reverse;align-content:flex-start;justify-content:flex-start;align-items:flex-start;}
-.xflex-Left{display:flex;flex-direction:row-reverse;align-content:flex-center;justify-content:flex-end;align-items:center;}
+.xflex-Left{display:flex;flex-direction:row-reverse;align-content:center;justify-content:flex-end;align-items:center;}
 .xflex-Center{display:flex;flex-direction:row-reverse;align-content:center;justify-content:center;align-items:center;}
 .xflex-Right{display:flex;flex-direction:row-reverse;align-content:center;justify-content:flex-start;align-items:center;}
 .xflex-BL{display:flex;flex-direction:row-reverse;align-content:flex-end;justify-content:flex-end;	align-items:flex-end;}
